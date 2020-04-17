@@ -10,7 +10,7 @@ The project will be divided into the following tasks
 
 I. Exploratory Data Analysis
 
-Before making recommendations of any kind, you will need to explore the data you are working with for the project. Dive in to see what you can find. There are some basic, required questions to be answered about the data you are working with throughout the rest of the notebook. Use this space to explore, before you dive into the details of your recommendation system in the later sections.
+Exploring data, checking for duplicated values, null values, cleaning columns, checking for dimensions of both datasets.
 
 II. Rank Based Recommendations
 
@@ -29,8 +29,9 @@ Finally, you will complete a machine learning approach to building recommendatio
 
 * data = this folder contains the article_community.csv and the user-item-interactions.cvs
 
-* project_test.py = contains the test dictionaries for the notebook
-
 * Recommendations_with_IBM.ipynb = contains the project divided by the **Project Tasks** specified above
 
-* user_item_matrix.p = pickle file containing the user & item matrix
+* user_item_matrix.csv = csv file containing the user & item matrix
+
+* Recommendations_with_IBM.html = html of the ipynb 
+
