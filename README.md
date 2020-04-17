@@ -1,4 +1,4 @@
-# recommendations_IBM
+# Recommendations with IBM
 Udacity Recommendations with IBM project
 
 # Introduction
